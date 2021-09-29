@@ -1,5 +1,3 @@
-def normalize_data(n_cases, n_people, scale):
-    # TODO: Calculate the number of cases per its population
 ### Korean Population by Region
 * Total population: 51669716
 | Region | Population | Ratio (%) |
