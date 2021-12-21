@@ -25,16 +25,17 @@
   - 식물의 데이터 수집하기
   
     AI 허브, 구글 데이터셋, 캐글, KERAS에서 지원해주는 데이터 등을 확인하며 식물의 질병과 관련된 데이터가 있는지 찾아본다.
+    <br>
     [캐글 데이터 사용](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data)
 
   - 데이터 전처리
     
-    수집한 데이터를 살펴보고 이미지 사이즈 조절, 이미지 개수 등을 확인해보고 조절한다.
+    수집한 데이터를 살펴보고 이미지 사이즈 조절, 이미지 개수 등을 확인해보고 조절한다. <br>
     [참고한 링크](https://keraskorea.github.io/posts/2018-10-24-little_data_powerful_model/)
 
   - 모델 구현
     
-    이미지를 분석하는 CNN 모델을 구현한다. 
+    이미지를 분석하는 CNN 모델을 구현한다.  <br>
     [참고한 링크](https://www.tensorflow.org/tutorials/images/cnn?hl=ko)
 
   - 정확도 확인
